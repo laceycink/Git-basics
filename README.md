@@ -1,4 +1,4 @@
-#Git basics
+# Git basics
 
 Remote repo to try out my Github skills
 
